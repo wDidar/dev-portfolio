@@ -13,7 +13,7 @@ h1 {
     margin-left: 12%;
 }
 
-#bolder {
+.bolder {
     font-weight: 900;
     font-size: 24px;
     margin-left: 4%;
@@ -39,7 +39,7 @@ section {
     padding-left: 16%;
 }
 
-#hire-button {
+.button {
     margin-left: 7%;
     text-decoration: none;
     background-image: linear-gradient(tomato, darkred);
@@ -53,4 +53,29 @@ section {
 #top-shape {
     background-image: url(pic/New\ Project.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
+.orangepic img {
+    width: 85%;
+    margin-left: 20%;
+}
+
+#goal {
+    margin-left: 30%;
+    color: rgba(165, 5, 37, 0.77);
+}
+
+.liberation {
+    margin-left: 15%;
+    font-size: 20px;
+    font-weight: 560;
+}
+
+.extra {
+    margin-left: 12%;
+}
+
+#resume {
+    margin-left: 14%;
 }
