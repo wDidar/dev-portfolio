@@ -1,15 +1,16 @@
 body {
     font-family: 'Raleway', sans-serif;
+    margin: 0;
 }
 
 h1 {
     font-size: 50px;
-    margin-left: 2%;
+    margin-left: 4%;
 }
 
 #crimson {
     color: rgba(165, 5, 37, 0.77);
-    margin-left: 15%;
+    margin-left: 12%;
 }
 
 #bolder {
@@ -42,10 +43,14 @@ section {
     margin-left: 7%;
     text-decoration: none;
     background-image: linear-gradient(tomato, darkred);
-    color: ;
     color: white;
     font-weight: 900;
     font-size: 18px;
     padding: 5px 25px;
     border-radius: 13px;
+}
+
+#top-shape {
+    background-image: url(pic/New\ Project.png);
+    background-repeat: no-repeat;
 }
