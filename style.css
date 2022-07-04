@@ -3,4 +3,20 @@ body{
 }
 h1{
     font-size: 50px;
+    margin-left: 2%;
+}
+#crimson{
+    color: rgba(165, 5, 37, 0.77);
+    margin-left: 7%;
+}
+#bolder{
+    font-weight: 900;
+    font-size: 24px;
+    margin-left: 3%;
+}
+#personal{
+    margin-right: 58%;
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight: 560;
 }
