@@ -1,22 +1,51 @@
-body{
+body {
     font-family: 'Raleway', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 50px;
     margin-left: 2%;
 }
-#crimson{
+
+#crimson {
     color: rgba(165, 5, 37, 0.77);
-    margin-left: 7%;
+    margin-left: 15%;
 }
-#bolder{
+
+#bolder {
     font-weight: 900;
     font-size: 24px;
-    margin-left: 3%;
+    margin-left: 4%;
 }
-#personal{
-    margin-right: 58%;
-    margin-left: 2%;
+
+#personal {
+    margin-left: 5%;
     font-size: 20px;
     font-weight: 560;
+    padding-left: 2%;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 16%;
+}
+
+#hire-button {
+    margin-left: 7%;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, darkred);
+    color: ;
+    color: white;
+    font-weight: 900;
+    font-size: 18px;
+    padding: 5px 25px;
+    border-radius: 13px;
 }
